@@ -29,3 +29,5 @@ WHEN I register a service worker </br>
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets </br>
 WHEN I deploy to Heroku </br>
 THEN I should have proper build scripts for a webpack application </br>
+## Link to Deployed Application
+https://jate86-text-editor.herokuapp.com/
