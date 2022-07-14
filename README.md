@@ -1,4 +1,5 @@
 # text-editor
+This text editor runs in the browser. It is a single-page application that meets the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 ## User Story
 AS A developer </br>
 I WANT to create notes or code snippets with or without an internet connection </br>
